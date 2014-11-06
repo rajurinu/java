@@ -1,0 +1,25 @@
+pUblic class BeerSong (
+public static void main (String[) args) (
+int beerNum 99;
+String word ~ "bottles";
+while (beerNum > 0) I
+if (beerNum == 1) (
+word - "bottle H
+; II s i ngul a r , as in ONE bo ttl e .
+System.out.println(beerNum + " H + word + " of beer on the wall H
+) ;
+System.out.println(beerNum + " H + word + " of beer.");
+System.out.println("Take one down. H
+) ;
+System .out .println( "Pass it around. ") ;
+beerNum = beerNum - 1;
+if (beerNum > 0) (
+System.out .println(beerNum + " H + word + " of beer on che wall H
+) ;
+else (
+System.out.println("No more bottles of beer on the wall H
+) ;
+) II end else
+f II end while loop
+) II end main method
+II en~ class
