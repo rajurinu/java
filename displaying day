@@ -1,0 +1,6 @@
+// To display which day of the week today is, we can use the letter E as in
+Date today;
+SimpleDateFormat sdf;
+today = new Date( );
+sdf = new SimpleDateFormat("EEEE");
+System.out.println("Today is " + sdf.format(today));
