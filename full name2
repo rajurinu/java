@@ -1,0 +1,21 @@
+import java.util.*;
+
+class Ch2Monogram {
+
+public static void main(String[] args) {
+
+String name;
+
+Scanner scanner = new Scanner(System.in);
+
+scanner.useDelimiter(System.getProperty("line.separator"));
+
+System.out.print("Enter your full name (first, middle, last):");
+
+name = scanner.next( );
+
+System.out.println("Name entered: " + name);
+
+}
+
+}
