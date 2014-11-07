@@ -1,18 +1,10 @@
 import javax.swing.*;
-
-public class firstWindow{
-
-
-public static void main(String[] args){
-
-     Jframe mywindow; //declaring the object named mywindow that belongs to the class of JFrame
-     
-     mywindow= new JFrame(); //creating the object named mywindow
-     mywindow.setSize(300,200);
-     mywindow.setTitle('My First Java Window');
-     mywindow.setVisible('TRUE');
-
-
-
+class Ch2Sample1 {
+        public static void main(String[] args) {
+        JFrame myWindow;
+        myWindow = new JFrame();
+        myWindow.setSize(300, 200);
+        myWindow.setTitle("My First Java Program");
+       myWindow.setVisible(true);
 }
 }
