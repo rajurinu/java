@@ -1,0 +1,34 @@
+Standard naming convention for Java
+Category                                           Convention                                       Example
+Class                                          Use an uppercase letter for the first letter of     Customer
+                                              the class names. If the name consists of 
+                                              multiple words, the first letter of every word
+                                              is capitalized.
+
+Instance                                       Use a lowercase letter for the first letter of       MainWindow
+                                                the object names. If the name consists of
+                                               multiple words, the first letter of every word
+                                              (except the first word) is capitalized
+
+Constant                                        Use all uppercase letters. If the constant          DEFAULT_RATE
+                                                                                                  DEG_TO_ROAD
+                                                consists of multiple words, the underscore
+                                                 characters are used to separate the words.
+
+
+Package                                          Use all lowercase letters.                          java
+
+.
+ 
+
+
+
+
+MyInputHandler
+customer
+inputHandler
+myFirstApplication
+
+
+game
+finance
