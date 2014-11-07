@@ -1,0 +1,15 @@
+
+y           Year Number                                    yyyy → 2008
+M         Month in year Text or number                     MM → 10
+MMM                                                        Oct
+MMMM                                                       October
+d         Day in month Number                              dd → 20
+D         Day in year Number                               DDD → 289
+h         Hour in AM/PM Number                             hh → 09
+H         Hour in day (0–23)                               Number HH → 17
+a         AM/PM marker Text                                a → AM
+m         Minutes in hour Number                           mm → 35
+s         Seconds in minute Number                         ss → 54
+S         Millisecond Number                               mmm → 897
+E         Day in week Text                                 E → Sat
+EEEE                                                       Saturday
