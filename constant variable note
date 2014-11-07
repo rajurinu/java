@@ -1,0 +1,8 @@
+When a programis running then different value can be assigned to a variable at different times.
+But in some cases we want some value of a variable fixed this are called CONSTANTS.
+To make a variable constant we have to use the keyword final.
+
+Ex:-
+
+final int MONTH = 12;
+final float PI_VALUE = 3.14159;
